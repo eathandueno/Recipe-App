@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.links{
+    display: flex;
+    justify-content: space-evenly;
+}
+.flex{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 10px;
+}
+.title{
+    margin-left: 20px;
+}
