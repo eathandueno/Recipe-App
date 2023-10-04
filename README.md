@@ -6,7 +6,7 @@ This project was done for learning and capability testing of myself
 It is built in the MERN full-stack with OpenAI's api plugin 
 This project allows users to create an account that must contain a unique username and password 
 and give the user 5 tokens to make requests for meals
-Feel free to check out my Linkedin @ eathandueno 
+
 
 
 https://github.com/eathandueno/Recipe-App/assets/66228368/6efac3c5-a538-45aa-afc1-8b3635d979b4
